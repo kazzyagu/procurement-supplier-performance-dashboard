@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves the development of an interactive **Procurement Analytics Dashboard in Microsoft Excel**, using SAP-style procurement data to evaluate purchasing activities, supplier performance, material spending, and delivery efficiency.
+This project involves the development of an interactive **Procurement Analytics Dashboard in Microsoft Excel**, using SAP procurement data to evaluate purchasing activities, supplier performance, material spending, and delivery efficiency.
 
 **Excel Workbook:** [View / Download the Excel Dashboard on Kaggle](https://www.kaggle.com/datasets/kazzyagu/procurement-performance-analytics-dashboard)
 
